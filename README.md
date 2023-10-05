@@ -194,3 +194,7 @@ Se a query string `t` não for informada, a resposta deve ter seu status code pa
 `GET /contagem-pessoas`
 
 Deverá retornar a quantidade de pessoas cadastradas na base, a resposta deve ter status code 200.
+
+# Referências
+
+- [Exemplo Docker Compose para PostgreSQL](https://github.com/khezen/compose-postgres/blob/master/docker-compose.yml)
